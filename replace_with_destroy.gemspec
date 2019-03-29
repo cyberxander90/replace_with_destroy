@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = ReplaceWithDestroy::VERSION
   s.authors     = ["Alexander Leyva"]
   s.email       = ["cyberxander90@gmail.com"]
-  s.homepage    = "http://rubygems.org/gems/replace_with_destroy"
+  s.homepage    = "https://github.com/cyberxander90/replace_with_destroy"
   s.summary     = "Call destroy callback on removed records when Rails update join models"
   s.description = "By default automatic deletion of join models is direct, no destroy callbacks are triggered. This gem allow changes the default Rails behavior."
   s.license     = "MIT"
